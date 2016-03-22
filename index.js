@@ -6,7 +6,7 @@ function wrapString(opts) {
       !opts.prepend) {
     throw new Error(
       "Must provide the following option parameters:" +
-      "'string', 'append', 'prepend'"
+      "'string', 'append', and 'prepend'"
     );
   }
 
