@@ -1,4 +1,4 @@
-## Wrap String
+## Wrap String [![Build Status](https://travis-ci.org/joegesualdo/wrap-string.svg?branch=master)](https://travis-ci.org/joegesualdo/wrap-string)
 > Wrap a string with other strings.
 
 ## Install
