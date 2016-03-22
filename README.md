@@ -22,3 +22,6 @@ wrapString({
 ```
 $ npm test
 ```
+
+## License
+MIT © Joe Gesualdo
